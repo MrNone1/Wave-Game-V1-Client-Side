@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../code/main.js"],
+  "sourcesContent": ["// Board\nadd([\n  rect(1,400),\n  pos(233,100),\n]);\n\nadd([\n  rect(1,400),\n  pos(366,100),\n]);\n\nadd([\n  rect(400,1),\n  pos(100, 233),\n]);\n\nadd([\n  rect(400,1),\n  pos(100, 366),\n]);"],
+  "mappings": ";;AACA,MAAI;AAAA,IACF,KAAK,GAAE;AAAA,IACP,IAAI,KAAI;AAAA;AAGV,MAAI;AAAA,IACF,KAAK,GAAE;AAAA,IACP,IAAI,KAAI;AAAA;AAGV,MAAI;AAAA,IACF,KAAK,KAAI;AAAA,IACT,IAAI,KAAK;AAAA;AAGX,MAAI;AAAA,IACF,KAAK,KAAI;AAAA,IACT,IAAI,KAAK;AAAA;",
+  "names": []
+}
